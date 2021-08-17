@@ -1,6 +1,6 @@
 # criticflix
-Site para mostrar a crítica e sinopse de alguns filmes e séries selecionados. Site criado para treinar EJS, Bootstrap e Node
-Para executar, execute os seguintes comandos no teminal:
+Site para mostrar a crítica e sinopse de alguns filmes e séries selecionados. Criado para praticar EJS, Bootstrap e Node.
+Para iniciar o projeto, execute os seguintes comandos no teminal:
 npm install 
 
 depois o comando:
