@@ -1,4 +1,4 @@
-# criticflix
+# Sinopseflix
 Site para mostrar a crítica e sinopse de alguns filmes e séries selecionados. Criado para praticar EJS, Bootstrap e Node.
 Para iniciar o projeto, execute os seguintes comandos no teminal:
 npm install 
